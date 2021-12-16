@@ -1,2 +1,1 @@
-# timer-app
-test task timer
+Test task: Timer with rxjs observables
